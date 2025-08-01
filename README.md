@@ -23,3 +23,7 @@
 - **JavaScript**  
 - **Formspree** (for handling form submissions)  
 - **Responsive Design** (Mobile-first layout with hamburger menu)
+
+---
+
+Crafted with 🤍 by [Akriti](https://www.linkedin.com/in/akriti-kumari-116a03251/)  
